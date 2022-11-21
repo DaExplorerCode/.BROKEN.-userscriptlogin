@@ -1,5 +1,11 @@
 # UserScriptLogin About & Manual
 Make simple 2FA using this userscript </br>
+How to use this userscript?
+Install the userscript plugin such as TamperMonkey, and more. </br>
+Then add an script </br>
+And then copy and paste the userscript into the userscript maker from the plugin </br>
+
+And also.. </br>
 If you wanna enable this userscript into specific website, <b>type in the userscript list</b> and type like this:
 
 <b>// @include [Delete those square bracket and retype this sentence into the url]/* </b>
