@@ -16,7 +16,7 @@ var thekey = prompt("Password:");
 }
 
 if (thekey == "/about") {
-alert("WebProtect 0.1.2 | Updates : Simplifying the script using non-stored variables (May decrease the security level on this script, BEWARE)");
+alert("UserscriptLogin 0.1.2 | Updates : Simplifying the script using non-stored variables (May decrease the security level on this script, BEWARE)");
 var thekey = null;
 gotothemainlogin();
 }
