@@ -30,7 +30,7 @@ var loginsuccessfultick = 1;
 setTimeout(ReviveTheDocumentTitle, 5000);
 }
 }
-
+}
 function ReviveTheDocumentTitle() {
 document.title = tabtittle;
 }
