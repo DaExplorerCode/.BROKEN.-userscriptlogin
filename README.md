@@ -18,3 +18,6 @@ For the example: </br>
 or 
 
 // @match https://open.spotify.com/*
+
+Feel free to edit my script :]
+- Made by DaExplorerCode
