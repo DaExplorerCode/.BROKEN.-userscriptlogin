@@ -1,7 +1,7 @@
 # UserScriptLogin About & Manual
 Make simple 2FA using this userscript </br>
 How to use this userscript?
-Install the userscript plugin such as TamperMonkey, and more. </br>
+Install the userscript plugin such as TamperMonkey, or more. </br>
 Then add an script </br>
 And then copy and paste the userscript into the userscript maker from the plugin </br>
 
