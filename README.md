@@ -1,5 +1,5 @@
 # UserScriptLogin About & Manual
-Make simple 2FA using this userscript </br>
+Make simple 2FA (Two Factor Authentication) using this userscript </br>
 How to use this userscript?
 Install the userscript plugin such as TamperMonkey, or more. </br>
 Then add an script </br>
