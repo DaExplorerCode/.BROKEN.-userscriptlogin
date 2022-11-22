@@ -8,7 +8,7 @@
 
 var savedkeyforthiscript = "replace this text with your password that you wanna like to use it";
 var thekey = null;
-gotothemainlogin()
+gotothemainlogin();
 function gotothemainlogin(){
 while(thekey !== savedkeyforthiscript){
 if (thekey !== "/about") {
