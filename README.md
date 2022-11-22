@@ -6,6 +6,7 @@ Then add an script </br>
 And then copy and paste the userscript into the userscript maker from the plugin </br>
 
 And also.. </br>
+![image](https://user-images.githubusercontent.com/70825723/203216874-d602100f-c797-454e-9445-18c24f28f02e.png)</br>
 If you wanna enable this userscript into specific website, <b>type in the userscript list</b> and type like this:
 
 <b>// @include [Delete those square bracket and retype this sentence into the url]/* </b>
@@ -19,5 +20,8 @@ or
 
 // @match https://open.spotify.com/*
 
+How to change the password?</br>
+![image](https://user-images.githubusercontent.com/70825723/203216095-7059dce8-e258-453c-b4bd-27d306756d84.png)</br>
+Navigate to the savedkeyforthiscript variable and edit the variable that pointed by the white arrow and done! (NOTE: DO NOT DELETE THE QUOTATITON MARKS) </br>
 Feel free to edit my script :]
 - Made by DaExplorerCode
