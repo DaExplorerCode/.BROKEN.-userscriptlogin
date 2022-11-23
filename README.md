@@ -1,5 +1,5 @@
 # [BROKEN BECAUSE OF AN UPDATE] UserScriptLogin About & Manual
-<b>Now the userscriptlogin script has broken because of an code update :moyai: </br>
+<b>Now the userscriptlogin script has broken because of an code rules update :moyai: </br>
 
 So.. we need to wait until the new code rules has come :moyai:</b> </br></br></br></br></br>
 
